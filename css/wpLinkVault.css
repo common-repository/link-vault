@@ -1,0 +1,11 @@
+/* Stuff for Link Building */
+.wpLinkVault-analyze-action {
+    -moz-background-clip: border;
+    -moz-background-inline-policy: continuous;
+    -moz-background-origin: padding;
+    border-top: medium none;
+    clear: both;
+    padding: 6px;
+    background: #EAF2FA none repeat scroll 0 0;
+    margin: 0 -6px -8px;
+}
